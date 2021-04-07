@@ -1,5 +1,5 @@
 # Here is a list of my favourite things:
-- Long walks on the beach
-- Disco dancing
+- Exploring the backstreets in cities and suburbs
+- Walking along tracks in the bush
 - Open Source
 - Learning Git and GitHub
