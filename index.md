@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+{% include Bark_09v2.png %}
 
 <br>
 
